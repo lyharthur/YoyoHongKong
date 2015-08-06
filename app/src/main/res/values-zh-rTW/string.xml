@@ -1,0 +1,176 @@
+<resources>
+    <string name="app_name">yoyohongkong</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bigmap">Bigmap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_my_dialog">Dialog</string>
+    <string name="title_activity_launcher">yoyohongkong</string>
+
+    <string name="Tsim_Sha_Tsui_Q1">1.下列哪個博物館不在尖沙咀？</string>
+    <string name="Tsim_Sha_Tsui_Q2">2.下列哪個特色建築不在尖沙咀？</string>
+    <string name="Tsim_Sha_Tsui_Q3">3.下列哪條美食街不在尖沙咀？</string>
+    <string name="Tsim_Sha_Tsui_Q4">4. 下列哪一個銅像不在星光大道上？</string>
+    <string name="Tsim_Sha_Tsui_Q5">5.下列哪一個商場在尖沙咀？</string>
+    <string name="Tsim_Sha_Tsui_A1">(D)孫中山紀念館</string>
+    <string name="Tsim_Sha_Tsui_A2">(B)香港匯豐銀行大廈</string>
+    <string name="Tsim_Sha_Tsui_A3">(A)蘭桂坊</string>
+    <string name="Tsim_Sha_Tsui_A4">(D)多拉A夢</string>
+    <string name="Tsim_Sha_Tsui_A5">(B)海港城</string>
+
+    <string-array name="Tsim_Sha_Tsui_Q1">
+        <item>(A)香港文化中心</item>
+        <item>(B)香港歷史博物館</item>
+        <item>(C)香港藝術館</item>
+        <item>(D)孫中山紀念館</item>
+    </string-array>
+    <string-array name="Tsim_Sha_Tsui_Q2">
+        <item>(A)香港星光大道</item>
+        <item>(B)香港匯豐銀行大廈</item>
+        <item>(C)香港尖沙咀鐘樓</item>
+        <item>(D)聖安德烈堂</item>
+    </string-array>
+    <string-array name="Tsim_Sha_Tsui_Q3">
+        <item>(A)蘭桂坊——感受異國情調</item>
+        <item>(B)諾士佛台——各國特色美食雲集之處</item>
+        <item>(C)金巴利街——韓食小店集中地，自韓流傳入香港後，有“小韓國”之稱</item>
+        <item>(D)山林道——尖沙咀食街</item>
+    </string-array>
+    <string-array name="Tsim_Sha_Tsui_Q4">
+        <item>(A)李小龍</item>
+        <item>(B)梅艷芳</item>
+        <item>(C)麥兜</item>
+        <item>(D)多拉A夢</item>
+    </string-array>
+    <string-array name="Tsim_Sha_Tsui_Q5">
+        <item>(A)朗豪坊</item>
+        <item>(B)海港城</item>
+        <item>(C)時代廣場</item>
+        <item>(D)又一城</item>
+    </string-array>
+
+    <string name="cityu_Q1">1.香港城市大學哪個餐廳面積最大？</string>
+    <string name="cityu_Q2">2.距離香港城市大學最近的商場是？</string>
+    <string name="cityu_Q3">3.香港城市大學的宿舍總共有幾Hall？</string>
+    <string name="cityu_Q4">4.香港城市大學總共有幾個學術樓？</string>
+    <string name="cityu_Q5">5.下列哪個不是「五大樓」？</string>
+    <string name="cityu_A1">(A) AC1</string>
+    <string name="cityu_A2">(A) 又一城</string>
+    <string name="cityu_A3">(B) 11</string>
+    <string name="cityu_A4">(C) 3</string>
+    <string name="cityu_A5">(C) 康樂樓</string>
+
+    <string-array name="cityu_Q1">
+        <item>(A) AC1</item>
+        <item>(B) AC2</item>
+        <item>(C) AC3</item>
+        <item>(D) 一樣大</item>
+    </string-array>
+    <string-array name="cityu_Q2">
+        <item>(A) 又一城</item>
+        <item>(B) 朗豪坊</item>
+        <item>(C) 101大樓</item>
+        <item>(D) 海港城</item>
+    </string-array>
+    <string-array name="cityu_Q3">
+        <item>(A) 10</item>
+        <item>(B) 11</item>
+        <item>(C) 12</item>
+        <item>(D) 13</item>
+    </string-array>
+    <string-array name="cityu_Q4">
+        <item>(A) 1</item>
+        <item>(B) 2</item>
+        <item>(C) 3</item>
+        <item>(D) 4</item>
+    </string-array>
+    <string-array name="cityu_Q5">
+        <item>(A) 蒙民偉樓</item>
+        <item>(B) 方潤華樓</item>
+        <item>(C) 康樂樓</item>
+        <item>(D) 桃源樓</item>
+    </string-array>
+
+    <string name="Cheung_Chau_Q1">1.下列哪個景點位於長洲？</string>
+    <string name="Cheung_Chau_Q2">2.香港長洲島上唯一的交通工具是？</string>
+    <string name="Cheung_Chau_Q3">3.下列哪一個不是長洲島上的廟宇？</string>
+    <string name="Cheung_Chau_Q4">4.下列哪個不是長洲島上的美食？</string>
+    <string name="Cheung_Chau_Q5">5.下列哪一項不是師妹甜品的必點美食？</string>
+    <string name="Cheung_Chau_A1">(C)張保仔洞</string>
+    <string name="Cheung_Chau_A2">(B)腳踏車</string>
+    <string name="Cheung_Chau_A3">(D)泰姬陵</string>
+    <string name="Cheung_Chau_A4">(D)煲仔飯</string>
+    <string name="Cheung_Chau_A5">(B)抹茶蛋糕</string>
+
+    <string-array name="Cheung_Chau_Q1">
+        <item>(A)太平山</item>
+        <item>(B)香港海洋公園</item>
+        <item>(C)張保仔洞</item>
+        <item>(D)香港迪士尼樂園</item>
+    </string-array>
+    <string-array name="Cheung_Chau_Q2">
+        <item>(A)飛機</item>
+        <item>(B)腳踏車</item>
+        <item>(C)滑板</item>
+        <item>(D)直升機</item>
+    </string-array>
+    <string-array name="Cheung_Chau_Q3">
+        <item>(A)關公忠義亭</item>
+        <item>(B)北帝廟</item>
+        <item>(C)西灣天后廟</item>
+        <item>(D)泰姬陵</item>
+    </string-array>
+    <string-array name="Cheung_Chau_Q4">
+        <item>(A)平安包</item>
+        <item>(B)咖哩大魚蛋</item>
+        <item>(C)奶黃糕和桂花糕</item>
+        <item>(D)煲仔飯</item>
+    </string-array>
+    <string-array name="Cheung_Chau_Q5">
+        <item>(A)心太軟</item>
+        <item>(B)抹茶蛋糕</item>
+        <item>(C)梳乎里</item>
+        <item>(D)火焰雪山</item>
+    </string-array>
+    <string name="ShaTin_Q1">1.产自沙田的香港特色香料是？</string>
+    <string name="ShaTin_Q2">2.2008年在香港傳遞奧運火炬時，火炬手乘龍舟在沙田何處傳遞的火炬？</string>
+    <string name="ShaTin_Q3">3.下列哪一個寺廟在沙田？</string>
+    <string name="ShaTin_Q4">4.沙田馬場的彩色大屏幕有的多少米長？</string>
+    <string name="ShaTin_Q5">5.下列那個博物館坐落在沙田？</string>
+    <string name="ShaTin_A1">(B) 莞香</string>
+    <string name="ShaTin_A2">(B) 小瀝源</string>
+    <string name="ShaTin_A3">(A) 萬佛寺</string>
+    <string name="ShaTin_A4">(C) 70.4</string>
+    <string name="ShaTin_A5">(C) 香港文化博物館</string>
+
+    <string-array name="ShaTin_Q1">
+        <item>(A) 大茴香</item>
+        <item>(B) 莞香</item>
+        <item>(C) 檀香</item>
+        <item>(D) 麝香</item>
+    </string-array>
+    <string-array name="ShaTin_Q2">
+        <item>(A) 維港</item>
+        <item>(B) 小瀝源</item>
+        <item>(C) 城門河</item>
+        <item>(D) 烏溪沙</item>
+    </string-array>
+    <string-array name="ShaTin_Q3">
+        <item>(A) 萬佛寺</item>
+        <item>(B) 白馬寺</item>
+        <item>(C) 少林寺</item>
+        <item>(D) 靈隱寺</item>
+    </string-array>
+    <string-array name="ShaTin_Q4">
+        <item>(A) 70.6 </item>
+        <item>(B) 70.5</item>
+        <item>(C) 70.4</item>
+        <item>(D) 70.3</item>
+    </string-array>
+    <string-array name="ShaTin_Q5">
+        <item>(A) 香港科學館</item>
+        <item>(B) 香港歷史博物館</item>
+        <item>(C) 香港文化博物館</item>
+        <item>(D) 香港太空館</item>
+    </string-array>
+</resources>

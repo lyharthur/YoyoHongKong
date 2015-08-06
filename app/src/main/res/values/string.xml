@@ -1,0 +1,200 @@
+<resources>
+    <string name="app_name">yoyohongkong</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bigmap">Bigmap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_my_dialog">Dialog</string>
+    <string name="title_activity_award">Award</string>
+    <string name="title_activity_launcher">yoyohongkong</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="dialog_message">1.Select an Area you want to go
+        2.Click Marker will show information and picture
+        3.You approach any marker  Ask a question
+        When you complete the area, you will get a piece of puzzle.
+        After you completed all the tasks, you will be able to share the puzzle to Facebook.</string>
+
+
+    <string-array name="drawer_menu">
+        <item>Apple</item>
+        <item>Book</item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Eagle</item>
+        <item>Food</item>
+        <item>God</item>
+        <item>House</item>
+        <item>Iron</item>
+        <item>Jingle</item>
+    </string-array>
+
+
+    <string name="Tsim_Sha_Tsui_Q1">1.Which of the following is not Museum in Tsim Sha Tsui?</string>
+    <string name="Tsim_Sha_Tsui_Q2">2.Which of the following is not distinctive buildings in Tsim Sha Tsui?</string>
+    <string name="Tsim_Sha_Tsui_Q3">3.Which of the following is not the food court in Tsim Sha Tsui?</string>
+    <string name="Tsim_Sha_Tsui_Q4">4.Which of the following is not a bronze statue on the Avenue of Stars?</string>
+    <string name="Tsim_Sha_Tsui_Q5">5.Which one of the following shopping malls in Tsim Sha Tsui?</string>
+    <string name="Tsim_Sha_Tsui_A1">(D)Sun Yat-sen Memorial Hall</string>
+    <string name="Tsim_Sha_Tsui_A2">(B)HSBC Main Building</string>
+    <string name="Tsim_Sha_Tsui_A3">(A)Lan Kwai Fong</string>
+    <string name="Tsim_Sha_Tsui_A4">(D)Doraemon</string>
+    <string name="Tsim_Sha_Tsui_A5">(B)Harbour City</string>
+
+    <string-array name="Tsim_Sha_Tsui_Q1">
+        <item>(A)Hong Kong Cultural Centre</item>
+        <item>(B)Hong Kong Museum of History</item>
+        <item>(C)Hong Kong Museum of Art</item>
+        <item>(D)Sun Yat-sen Memorial Hall</item>
+    </string-array>
+    <string-array name="Tsim_Sha_Tsui_Q2">
+        <item>(A)Avenue of Stars</item>
+        <item>(B)HSBC Main Building</item>
+        <item>(C)Hong Kong Clock Tower</item>
+        <item>(D)St Andrew Church</item>
+    </string-array>
+    <string-array name="Tsim_Sha_Tsui_Q3">
+        <item>(A)Lan Kwai Fong</item>
+        <item>(B)Knutsford Terrace</item>
+        <item>(C)Kimberley Street</item>
+        <item>(D)Hillwood Road</item>
+    </string-array>
+    <string-array name="Tsim_Sha_Tsui_Q4">
+        <item>(A)Bruce Jun Fan Lee</item>
+        <item>(B)Anita Mui</item>
+        <item>(C)McDull</item>
+        <item>(D)Doraemon</item>
+    </string-array>
+    <string-array name="Tsim_Sha_Tsui_Q5">
+        <item>(A)Langham Place</item>
+        <item>(B)Harbour City</item>
+        <item>(C)Times Square</item>
+        <item>(D)Festival Walk</item>
+    </string-array>
+
+
+    <string name="cityu_Q1">Which restaurant is the largest in City University of Hong Kong?</string>
+    <string name="cityu_Q2">Which of the following is closest to the mall from the City University of Hong Kong?</string>
+    <string name="cityu_Q3">How many halls at dormitory of CityU?</string>
+    <string name="cityu_Q4">How many academic building at the City University of Hong Kong?</string>
+    <string name="cityu_Q5">Which of the following is not five buildings in the City University of Hong Kong?</string>
+    <string name="cityu_A1">(A)AC1</string>
+    <string name="cityu_A2">(A)Festival Walk</string>
+    <string name="cityu_A3">(B) 11</string>
+    <string name="cityu_A4">(C) 3</string>
+    <string name="cityu_A5">(C)Amenities Building</string>
+    <string-array name="cityu_Q1">
+        <item>(A)AC1</item>
+        <item>(B)AC2</item>
+        <item>(C)AC3</item>
+        <item>(D)Above the same</item>
+    </string-array>
+    <string-array name="cityu_Q2">
+        <item>(A)Festival Walk</item>
+        <item>(B)Langham Place</item>
+        <item>(C)TAIPEI 101</item>
+        <item>(D)Harbour City</item>
+    </string-array>
+    <string-array name="cityu_Q3">
+        <item>(A) 10</item>
+        <item>(B) 11</item>
+        <item>(C) 12</item>
+        <item>(D) 13</item>
+    </string-array>
+    <string-array name="cityu_Q4">
+        <item>(A) 1</item>
+        <item>(B) 2</item>
+        <item>(C) 3</item>
+        <item>(D) 4</item>
+    </string-array>
+    <string-array name="cityu_Q5">
+        <item>(A)Mong Man-wai Building</item>
+        <item>(B)Fong Yun-wah Building</item>
+        <item>(C)Amenities Building</item>
+        <item>(D)To Yuen Building</item>
+    </string-array>
+    <string name="Cheung_Chau_Q1">Which one of the attractions in Cheung Chau?</string>
+    <string name="Cheung_Chau_Q2">What is the only transportation in Cheung Chau?</string>
+    <string name="Cheung_Chau_Q3">Which of the following is not the temple in Cheung Chau?</string>
+    <string name="Cheung_Chau_Q4">Which of the following is not food in Cheung Chau?</string>
+    <string name="Cheung_Chau_Q5">Which of the following is not a great dessert in Katie Dessert?</string>
+    <string name="Cheung_Chau_A1">(C)Cheung Po Tsai Cave</string>
+    <string name="Cheung_Chau_A2">(B)Bicycle</string>
+    <string name="Cheung_Chau_A3">(D)Taj Mahal</string>
+    <string name="Cheung_Chau_A4">(D)Clay Pot</string>
+    <string name="Cheung_Chau_A5">(B)Green tea cake</string>
+
+    <string-array name="Cheung_Chau_Q1">
+        <item>(A)The Peak</item>
+        <item>(B)Ocean Park Hong Kong</item>
+        <item>(C)Cheung Po Tsai Cave</item>
+        <item>(D)Hong Kong Disneyland</item>
+    </string-array>
+    <string-array name="Cheung_Chau_Q2">
+        <item>(A)airplane</item>
+        <item>(B)Bicycle</item>
+        <item>(C)Skateboard</item>
+        <item>(D)Helicopters</item>
+    </string-array>
+    <string-array name="Cheung_Chau_Q3">
+        <item>(A)Guan Gong loyalty kiosks</item>
+        <item>(B)Pak Tai Temple</item>
+        <item>(C)Sai Wan Tin Hau Temple</item>
+        <item>(D)Taj Mahal</item>
+    </string-array>
+    <string-array name="Cheung_Chau_Q4">
+        <item>(A)Lucky Bun</item>
+        <item>(B)Fish Ball</item>
+        <item>(C)Custard cake and Osmanthus cake</item>
+        <item>(D)Clay Pot</item>
+    </string-array>
+    <string-array name="Cheung_Chau_Q5">
+        <item>(A)Too-soft-hearted</item>
+        <item>(B)Green tea cake</item>
+        <item>(C)soufflé</item>
+        <item>(D)Flame snowy mountain</item>
+    </string-array>
+    <string name="ShaTin_Q1">Which of the following is the special spice produced in Sha Tin?</string>
+    <string name="ShaTin_Q2">When Olympic torch relayed in Hong Kong in 2008, where was the torch by the dragon boat in Sha Tin?</string>
+    <string name="ShaTin_Q3">Which one of the following temple located in Sha Tin?</string>
+    <string name="ShaTin_Q4">What’s the length of the scale color screen located in Sha Tin Racecourse?</string>
+    <string name="ShaTin_Q5">Which one of the following museum is located at Sha Tin?</string>
+    <string name="ShaTin_A1">(B)Aquilaria sinensis</string>
+    <string name="ShaTin_A2">(B)Siu Lek Yuen</string>
+    <string name="ShaTin_A3">(A)Buddhas monastery</string>
+    <string name="ShaTin_A4">(C)70.4</string>
+    <string name="ShaTin_A5">(C)Hong Kong Heritage Museum</string>
+
+    <string-array name="ShaTin_Q1">
+        <item>(A)Anise</item>
+        <item>(B)Aquilaria sinensis</item>
+        <item>(C)Sandalwood</item>
+        <item>(D)Musk</item>
+    </string-array>
+    <string-array name="ShaTin_Q2">
+        <item>(A)Sandalwood</item>
+        <item>(B)Siu Lek Yuen</item>
+        <item>(C)Shing Mun River</item>
+        <item>(D)Wu Kwai Sha</item>
+    </string-array>
+    <string-array name="ShaTin_Q3">
+        <item>(A)Buddhas monastery</item>
+        <item>(B)White horse temple</item>
+        <item>(C)The shaolin temple</item>
+        <item>(D)Lingyin temple</item>
+    </string-array>
+    <string-array name="ShaTin_Q4">
+        <item>(A)70.6 e</item>
+        <item>(B)70.5 </item>
+        <item>(C)70.4 </item>
+        <item>(D)70.3 </item>
+    </string-array>
+    <string-array name="ShaTin_Q5">
+        <item>(A)Hong Kong Science Museum</item>
+        <item>(B)Hong Kong Museum of History</item>
+        <item>(C)Hong Kong Heritage Museum</item>
+        <item>(D)Hong Kong Space Museum</item>
+    </string-array>
+</resources>
